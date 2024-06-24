@@ -1,0 +1,75 @@
+<annotation>
+    <folder>GoogleEarth</folder>
+    <filename>GE_63.jpg</filename>
+    <size>
+        <width>4800</width>
+        <height>4421</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3329</xmin>
+            <ymin>1006</ymin>
+            <xmax>3379</xmax>
+            <ymax>1075</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2804</xmin>
+            <ymin>2213</ymin>
+            <xmax>2872</xmax>
+            <ymax>2245</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3086</xmin>
+            <ymin>2943</ymin>
+            <xmax>3150</xmax>
+            <ymax>3027</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1210</xmin>
+            <ymin>2398</ymin>
+            <xmax>1326</xmax>
+            <ymax>2491</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1495</xmin>
+            <ymin>1548</ymin>
+            <xmax>1614</xmax>
+            <ymax>1621</ymax>
+        </bndbox>
+    </object>
+</annotation>

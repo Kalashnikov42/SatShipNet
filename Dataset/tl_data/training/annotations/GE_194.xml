@@ -1,0 +1,36 @@
+<annotation>
+    <folder>GoogleEarth2</folder>
+    <filename>GE_194.jpg</filename>
+    <size>
+        <width>530</width>
+        <height>494</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>142</xmin>
+            <ymin>292</ymin>
+            <xmax>182</xmax>
+            <ymax>334</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>144</xmin>
+            <ymin>139</ymin>
+            <xmax>220</xmax>
+            <ymax>295</ymax>
+        </bndbox>
+    </object>
+</annotation>

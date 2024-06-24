@@ -1,0 +1,36 @@
+<annotation>
+    <folder>test</folder>
+    <filename>Test50.jpg</filename>
+    <size>
+        <width>504</width>
+        <height>514</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>148</xmin>
+            <ymin>349</ymin>
+            <xmax>208</xmax>
+            <ymax>385</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>355</xmin>
+            <ymin>285</ymin>
+            <xmax>447</xmax>
+            <ymax>328</ymax>
+        </bndbox>
+    </object>
+</annotation>

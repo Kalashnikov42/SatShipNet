@@ -1,0 +1,36 @@
+<annotation>
+    <folder>GE</folder>
+    <filename>GE_104.jpg</filename>
+    <size>
+        <width>648</width>
+        <height>682</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>594</xmin>
+            <ymin>514</ymin>
+            <xmax>629</xmax>
+            <ymax>576</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>229</xmin>
+            <ymin>234</ymin>
+            <xmax>269</xmax>
+            <ymax>322</ymax>
+        </bndbox>
+    </object>
+</annotation>

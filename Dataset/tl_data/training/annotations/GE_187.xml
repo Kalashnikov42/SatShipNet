@@ -1,0 +1,23 @@
+<annotation>
+    <folder>GoogleEarth2</folder>
+    <filename>GE_187.jpg</filename>
+    <size>
+        <width>568</width>
+        <height>544</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>256</xmin>
+            <ymin>223</ymin>
+            <xmax>375</xmax>
+            <ymax>361</ymax>
+        </bndbox>
+    </object>
+</annotation>

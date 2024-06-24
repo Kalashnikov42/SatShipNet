@@ -1,0 +1,62 @@
+<annotation>
+    <folder>GoogleEarth</folder>
+    <filename>GE_20.jpg</filename>
+    <size>
+        <width>4800</width>
+        <height>2908</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2335</xmin>
+            <ymin>446</ymin>
+            <xmax>2401</xmax>
+            <ymax>539</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3441</xmin>
+            <ymin>434</ymin>
+            <xmax>3469</xmax>
+            <ymax>493</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3426</xmin>
+            <ymin>1401</ymin>
+            <xmax>3463</xmax>
+            <ymax>1452</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>776</xmin>
+            <ymin>2170</ymin>
+            <xmax>910</xmax>
+            <ymax>2223</ymax>
+        </bndbox>
+    </object>
+</annotation>

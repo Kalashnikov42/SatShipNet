@@ -1,0 +1,36 @@
+<annotation>
+    <folder>untitled_folder</folder>
+    <filename>GE_346.jpg</filename>
+    <size>
+        <width>828</width>
+        <height>752</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>480</xmin>
+            <ymin>474</ymin>
+            <xmax>569</xmax>
+            <ymax>532</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>378</xmin>
+            <ymin>302</ymin>
+            <xmax>456</xmax>
+            <ymax>360</ymax>
+        </bndbox>
+    </object>
+</annotation>

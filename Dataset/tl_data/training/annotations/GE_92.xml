@@ -1,0 +1,23 @@
+<annotation>
+    <folder>GoogleEarth2</folder>
+    <filename>GE_92.jpg</filename>
+    <size>
+        <width>328</width>
+        <height>380</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>226</xmin>
+            <ymin>145</ymin>
+            <xmax>262</xmax>
+            <ymax>221</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>GoogleEarth</folder>
+    <filename>GE_41.jpg</filename>
+    <size>
+        <width>4800</width>
+        <height>3741</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3032</xmin>
+            <ymin>1146</ymin>
+            <xmax>3480</xmax>
+            <ymax>1892</ymax>
+        </bndbox>
+    </object>
+</annotation>

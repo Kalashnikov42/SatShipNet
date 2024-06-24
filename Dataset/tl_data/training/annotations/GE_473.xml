@@ -1,0 +1,36 @@
+<annotation>
+    <folder>GE</folder>
+    <filename>GE_473.jpg</filename>
+    <size>
+        <width>442</width>
+        <height>436</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>268</xmin>
+            <ymin>79</ymin>
+            <xmax>362</xmax>
+            <ymax>177</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>145</xmin>
+            <ymin>183</ymin>
+            <xmax>265</xmax>
+            <ymax>305</ymax>
+        </bndbox>
+    </object>
+</annotation>

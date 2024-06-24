@@ -1,0 +1,36 @@
+<annotation>
+    <folder>untitled_folder</folder>
+    <filename>GE_290.jpg</filename>
+    <size>
+        <width>364</width>
+        <height>354</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>290</xmin>
+            <ymin>227</ymin>
+            <xmax>339</xmax>
+            <ymax>268</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>81</xmin>
+            <ymin>63</ymin>
+            <xmax>182</xmax>
+            <ymax>109</ymax>
+        </bndbox>
+    </object>
+</annotation>

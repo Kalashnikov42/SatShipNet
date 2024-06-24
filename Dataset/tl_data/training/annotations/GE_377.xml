@@ -1,0 +1,36 @@
+<annotation>
+    <folder>untitled_folder</folder>
+    <filename>GE_377.jpg</filename>
+    <size>
+        <width>452</width>
+        <height>448</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>276</xmin>
+            <ymin>119</ymin>
+            <xmax>353</xmax>
+            <ymax>181</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>212</xmin>
+            <ymin>315</ymin>
+            <xmax>304</xmax>
+            <ymax>386</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>GoogleEarth2</folder>
+    <filename>GE_155.jpg</filename>
+    <size>
+        <width>244</width>
+        <height>214</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>176</xmin>
+            <ymin>7</ymin>
+            <xmax>234</xmax>
+            <ymax>53</ymax>
+        </bndbox>
+    </object>
+</annotation>

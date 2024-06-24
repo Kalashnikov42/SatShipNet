@@ -1,0 +1,36 @@
+<annotation>
+    <folder>GoogleEarth2</folder>
+    <filename>GE_90.jpg</filename>
+    <size>
+        <width>606</width>
+        <height>564</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>186</xmin>
+            <ymin>191</ymin>
+            <xmax>218</xmax>
+            <ymax>214</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>107</xmin>
+            <ymin>175</ymin>
+            <xmax>203</xmax>
+            <ymax>216</ymax>
+        </bndbox>
+    </object>
+</annotation>

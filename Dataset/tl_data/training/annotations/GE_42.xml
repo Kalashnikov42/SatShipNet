@@ -1,0 +1,49 @@
+<annotation>
+    <folder>GoogleEarth</folder>
+    <filename>GE_42.jpg</filename>
+    <size>
+        <width>4800</width>
+        <height>3741</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3387</xmin>
+            <ymin>1819</ymin>
+            <xmax>3478</xmax>
+            <ymax>1984</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3039</xmin>
+            <ymin>946</ymin>
+            <xmax>3318</xmax>
+            <ymax>1460</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>508</xmin>
+            <ymin>1464</ymin>
+            <xmax>584</xmax>
+            <ymax>1627</ymax>
+        </bndbox>
+    </object>
+</annotation>

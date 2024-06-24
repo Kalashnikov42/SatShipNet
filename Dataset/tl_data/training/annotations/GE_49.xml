@@ -1,0 +1,49 @@
+<annotation>
+    <folder>GoogleEarth</folder>
+    <filename>GE_49.jpg</filename>
+    <size>
+        <width>4800</width>
+        <height>2908</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>4126</xmin>
+            <ymin>432</ymin>
+            <xmax>4583</xmax>
+            <ymax>872</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3904</xmin>
+            <ymin>783</ymin>
+            <xmax>4545</xmax>
+            <ymax>1409</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3607</xmin>
+            <ymin>2712</ymin>
+            <xmax>3638</xmax>
+            <ymax>2729</ymax>
+        </bndbox>
+    </object>
+</annotation>

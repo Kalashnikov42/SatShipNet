@@ -1,0 +1,88 @@
+<annotation>
+    <folder>GoogleEarth</folder>
+    <filename>GE_81.jpg</filename>
+    <size>
+        <width>4800</width>
+        <height>4421</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2991</xmin>
+            <ymin>2480</ymin>
+            <xmax>3857</xmax>
+            <ymax>2755</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2464</xmin>
+            <ymin>1562</ymin>
+            <xmax>3267</xmax>
+            <ymax>1783</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3284</xmin>
+            <ymin>1722</ymin>
+            <xmax>4044</xmax>
+            <ymax>1942</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3273</xmin>
+            <ymin>1819</ymin>
+            <xmax>4024</xmax>
+            <ymax>2028</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3250</xmin>
+            <ymin>1916</ymin>
+            <xmax>4006</xmax>
+            <ymax>2120</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3763</xmin>
+            <ymin>1149</ymin>
+            <xmax>4502</xmax>
+            <ymax>1389</ymax>
+        </bndbox>
+    </object>
+</annotation>

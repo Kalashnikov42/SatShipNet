@@ -1,0 +1,23 @@
+<annotation>
+    <folder>GE</folder>
+    <filename>GE_553.jpg</filename>
+    <size>
+        <width>488</width>
+        <height>476</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>184</xmin>
+            <ymin>129</ymin>
+            <xmax>251</xmax>
+            <ymax>263</ymax>
+        </bndbox>
+    </object>
+</annotation>

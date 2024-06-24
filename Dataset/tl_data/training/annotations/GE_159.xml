@@ -1,0 +1,36 @@
+<annotation>
+    <folder>GoogleEarth2</folder>
+    <filename>GE_159.jpg</filename>
+    <size>
+        <width>492</width>
+        <height>454</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>170</xmin>
+            <ymin>99</ymin>
+            <xmax>247</xmax>
+            <ymax>155</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>198</xmin>
+            <ymin>128</ymin>
+            <xmax>278</xmax>
+            <ymax>192</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+    <folder>GoogleEarth</folder>
+    <filename>GE_57.jpg</filename>
+    <size>
+        <width>4800</width>
+        <height>4272</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3277</xmin>
+            <ymin>2503</ymin>
+            <xmax>3375</xmax>
+            <ymax>2570</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1575</xmin>
+            <ymin>2420</ymin>
+            <xmax>1638</xmax>
+            <ymax>2477</ymax>
+        </bndbox>
+    </object>
+</annotation>
