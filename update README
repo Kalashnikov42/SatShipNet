@@ -1,0 +1,4 @@
+# SatShipNet
+Project for Indian Institute of Remote Sensing to accurately detect marine vessels utilising detection transformers and latest object detection algorithms.
+A detailed review of the existing image processing algorithms particularly YOLO v8 , v9 , v10 and detection transformers Dino v2 developed by MetaAI for ship detection and automatic feature extraction.
+
